@@ -30,3 +30,4 @@ L'algorithme repose sur les étapes fondamentales suivantes :
 Pour exécuter le test de validation du réseau :
 ```bash
 python dl.py
+```
